@@ -16,3 +16,6 @@ def division(a, b):
 
 def multiplication(a, b):
     return a * b 
+
+def modulo(a,b):
+    return a % b
